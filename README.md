@@ -1,61 +1,200 @@
-## Hey 👋, I'm Rahul Jha!
-<a href='https://www.linkedin.com/in/rahul-jha98/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://twitter.com/jharahul98/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='https://www.kaggle.com/rahuljha98/'><img alt="kaggle" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/kaggle.svg" height='18px'/></a>
+## Bonjour 👋, je suis Mohend Hammamouche !
 
-
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-  
-### 🧐 More About Me:
-
-- 🔭 &nbsp; I’m currently working on **youtube-audio-player**
-- 🤝 &nbsp; I’m looking to collaborate on [sheets-database](https://github.com/rahul-jha98/sheets-database)
-- 🌱 &nbsp; I’m currently learning Typescript; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/rahul-jha98?tab=repositories)
-- 🎨 &nbsp; Using [this svg](https://storyset.com/illustration/javascript-frameworks/amico) and Figma I made 👉
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahul-jha98/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
-- 📚 &nbsp; When I am free, I read fantasy and fiction novels. Checkout my [Goodreads](https://www.goodreads.com/rahul-jha98) to see the book I have read
-
-<br>
-
-### 🔨 Languages and Tools:
-<a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
-<a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a> 
-<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-<a href="https://developer.android.com" target="_blank"> <img align="left" alt="Android" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg"> </a>
-<a href="https://kotlinlang.org" target="_blank"><img align="left" alt="Kotlin" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/kotlin/kotlin.svg"></a>
-<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
-<a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/typescript/typescript.svg"></a>
-<a href="https://reactjs.org/" target="_blank"> <img align="left" alt="React" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/react/react.svg"></a>
-<a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/git-scm/git-scm.svg" align="left" alt="git" height='42px'/> </a>
-<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
-
-<br>
-
-
-### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
+<a href="https://github.com/" target="_blank">
+<img align="left" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="22px"/>
 </a>
 
+<a href="https://www.linkedin.com/" target="_blank">
+<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="22px"/>
+</a>
+
+<br/>
+<br/>
+
+Je suis actuellement **étudiant en deuxième année de Licence Informatique** à l'Université Abderrahmane Mira de Béjaïa. 🎓
+
+Je m'intéresse particulièrement à la **programmation, au développement web, aux systèmes informatiques et à la cybersécurité**. J'aime apprendre de nouvelles technologies à travers des projets personnels et universitaires. 💻🔐
+
+Je développe progressivement mes compétences en **Python, C, C++, HTML, CSS et JavaScript**, tout en explorant Linux, Git/GitHub et la modélisation 3D avec Blender.
+
+<br/>
+<br/>
+
+### 🧐 À propos de moi :
+
+* 🎓   Étudiant en **L2 Informatique**
+* 🔐   Je m'intéresse à la **cybersécurité**
+* 🐍   Je développe des projets avec **Python**
+* ⚙️   Je travaille également avec **C et C++**
+* 🌐   J'apprends actuellement le **développement web**
+* ♟️   Je développe un **jeu d'échecs avec Python et Pygame**
+* 🧊   J'explore la **3D et Blender**
+* 🐧   Je m'intéresse à **Linux et aux systèmes d'exploitation**
+* 🐙   Mes projets et travaux sont disponibles sur **GitHub**
+* 📚   J'améliore continuellement mes compétences à travers des projets pratiques
+* 🎯   Mon objectif est de poursuivre mes études et de développer mon parcours dans le domaine de l'informatique et de la cybersécurité
+
 <br>
 
-### 🛠️ My Projects
-<a href="https://rahul-jha98.github.io/Artistify.ai/" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://rahul-jha98.github.io/sheets-database/" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://thepasswordkeeper.netlify.app/" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://wavelengths.netlify.app/" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+### 🔨 Langages et outils :
+
+<a href="https://www.python.org/" target="_blank">
+<img align="left" alt="Python" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+</a>
+
+<a href="https://en.cppreference.com/w/c" target="_blank">
+<img align="left" alt="C" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+</a>
+
+<a href="https://isocpp.org/" target="_blank">
+<img align="left" alt="C++" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+</a>
+
+<a href="https://developer.mozilla.org/fr/docs/Web/HTML" target="_blank">
+<img align="left" alt="HTML" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+</a>
+
+<a href="https://developer.mozilla.org/fr/docs/Web/CSS" target="_blank">
+<img align="left" alt="CSS" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+</a>
+
+<a href="https://developer.mozilla.org/fr/docs/Web/JavaScript" target="_blank">
+<img align="left" alt="JavaScript" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+</a>
+
+<a href="https://www.php.net/" target="_blank">
+<img align="left" alt="PHP" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img align="left" alt="MySQL" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img align="left" alt="Git" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img align="left" alt="GitHub" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img align="left" alt="Linux" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+</a>
+
+<a href="https://www.blender.org/" target="_blank">
+<img align="left" alt="Blender" height="42px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg">
+</a>
+
+<br/>
+<br/>
+
+### 📚 Compétences en cours de développement
+
+* 🐍 **Python** — programmation et projets personnels
+* ⚙️ **C / C++** — algorithmes et structures de données
+* 🌐 **HTML / CSS / JavaScript** — développement frontend
+* 🗄️ **SQL / PHP** — découverte du backend
+* 🐧 **Linux** — systèmes et environnement informatique
+* 🔧 **Git / GitHub** — gestion et partage de projets
+* 🔐 **Cybersécurité** — apprentissage des fondamentaux
+* 🧊 **Blender** — modélisation et environnement 3D
+
+<br>
+
+### 🛠️ Mes projets
+
+#### ♟️ Jeu d'échecs avec Python
+
+Développement d'un jeu d'échecs avec **Python et Pygame**.
+
+Le projet me permet de travailler sur :
+
+* la logique du jeu ;
+* les règles des échecs ;
+* les interfaces graphiques ;
+* la programmation orientée objet ;
+* la gestion des événements ;
+* l'organisation d'un projet Python.
+
+🔗 **[Voir le projet sur GitHub](#)**
+
+---
+
+#### 🌐 Projets de développement Web
+
+Création de différents projets avec **HTML, CSS et JavaScript** afin de développer mes compétences en développement frontend.
+
+🔗 **[Voir mes projets](#)**
+
+---
+
+#### 🐍 Projets Python
+
+Développement de plusieurs applications Python pour améliorer mes compétences en programmation et en résolution de problèmes.
+
+🔗 **[Voir mes projets Python](#)**
+
+---
+
+#### ⚙️ Projets C / C++
+
+Projets universitaires et personnels autour de la programmation, des algorithmes, des structures de données et des systèmes informatiques.
+
+🔗 **[Voir mes projets C/C++](#)**
+
+---
+
+#### 🧊 Projets Blender & 3D
+
+Exploration de la modélisation 3D et création de scènes et d'environnements avec Blender.
+
+🔗 **[Voir mes projets 3D](#)**
+
+---
+
+### 🔐 Cybersécurité
+
+Je développe progressivement mes connaissances dans plusieurs domaines liés à la cybersécurité :
+
+* Linux 🐧
+* Réseaux 🌐
+* Systèmes d'exploitation 💻
+* Programmation ⚙️
+* Sécurité informatique 🔐
+
+Mon objectif est de construire progressivement une base solide avant de me spécialiser davantage dans ce domaine.
+
+<br>
+
+### ❤️ Centres d'intérêt
+
+* ♟️ Échecs
+* 🎨 Dessin
+* 🖌️ Peinture
+* 🧊 Blender & 3D
+* 💻 Matériel informatique
+* 🏊 Natation
+* 🥾 Randonnée
+* 💻 Technologies et informatique
+
+<br>
+
+### 🎯 Objectif
+
+> **Apprendre, créer des projets et progresser continuellement dans le domaine de l'informatique.**
+
+Je souhaite poursuivre mes études en informatique et approfondir progressivement mes compétences, notamment dans le domaine de la **cybersécurité**.
+
+<br/>
+
+---
+
+### 📫 Me contacter
+
+* 🐙 **GitHub :** [Mon GitHub](https://github.com/)
+* 💼 **LinkedIn :** [Mon LinkedIn](https://www.linkedin.com/)
+
+<br/>
+
+**Merci d'avoir visité mon profil ! 🚀**
